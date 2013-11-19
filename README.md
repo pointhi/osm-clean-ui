@@ -1,7 +1,7 @@
 
 # OpenStreetMap Clean UI
 
-![screenshot](https://github.com/51114u9/osm-clean-ui/raw/master/screenshot1.jpg)
+![screenshot](https://github.com/pointhi/osm-clean-ui/raw/master/screenshot1.jpg)
 
 ## Description
 
@@ -26,7 +26,7 @@ Chrome [TamperMonkey](http://bit.ly/19r15Yf) or Safari ???
 
 ### Install from GitHub (here)
 
-1. Click [here](https://github.com/51114u9/osm-clean-ui/raw/master/17415.user.js),
+1. Click [here](https://github.com/pointhi/osm-clean-ui/raw/master/17415.user.js),
    accept and wait for install
 
 ### Install from UserScript
@@ -55,15 +55,15 @@ and the script will start
 
 Public GPS Traces:
 
-![screenshot](https://github.com/51114u9/osm-clean-ui/raw/master/screenshot2.jpg)
+![screenshot](https://github.com/pointhi/osm-clean-ui/raw/master/screenshot2.jpg)
 
 User's diaries:
 
-![screenshot](https://github.com/51114u9/osm-clean-ui/raw/master/screenshot3.jpg)
+![screenshot](https://github.com/pointhi/osm-clean-ui/raw/master/screenshot3.jpg)
 
 Changesets:
 
-![screenshot](https://github.com/51114u9/osm-clean-ui/raw/master/screenshot4.jpg)
+![screenshot](https://github.com/pointhi/osm-clean-ui/raw/master/screenshot4.jpg)
 
 Enjoy!
 
