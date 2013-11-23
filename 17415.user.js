@@ -197,6 +197,14 @@ function findAndFixCommunity() {
 
     elmCommunityTab.appendChild(elmCommunityDiv);
     elmTabNav.appendChild(elmCommunityTab);
+
+    var elmCommunityWikiLi = document.createElement('li');
+    elmCommunityWikiLi.innerHTML = '<a title="Wiki" href="http://wiki.openstreetmap.org">Wiki</a>';
+    elmCommunityMenuUl.appendChild(elmCommunityWikiLi);
+
+    var elmCommunityForumLi = document.createElement('li');
+    elmCommunityForumLi.innerHTML = '<a title="Forum" href="http://forum.openstreetmap.org/">Forum</a>';
+    elmCommunityMenuUl.appendChild(elmCommunityForumLi);
 }
 
 function findAndFixHelp() {
